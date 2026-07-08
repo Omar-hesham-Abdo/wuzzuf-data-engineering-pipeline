@@ -1,3 +1,6 @@
+<img width="1886" height="932" alt="job" src="https://github.com/user-attachments/assets/8d7f5bd8-dc5e-4ce7-8002-cd21c84fa3af" />
+<img width="1298" height="833" alt="delta_merge" src="https://github.com/user-attachments/assets/dcf42429-c8bb-40e9-835a-4a1e271de9e9" />
+<img width="1885" height="896" alt="catalog_with_table" src="https://github.com/user-attachments/assets/e3313fd7-34de-451e-8f76-ecca785f7ed3" />
 # Wuzzuf Data Engineering Pipeline
 
 ## Overview
